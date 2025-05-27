@@ -34,9 +34,9 @@ coffee-machine/
 │
 │
 └── README.md
-```bash
 
----
+
+
 
 * Cas d’utilisation (Use Cases)
 (C1) Pay
