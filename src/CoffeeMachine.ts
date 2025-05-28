@@ -204,7 +204,7 @@ class CoffeeMachine {
   }
 
   private validatePayment(method: PaymentMethod): boolean {
-    return true; // Simulation : tous les paiements sont valides
+    return true; 
   }
 
   private selectCoffee(type: CoffeeType): boolean {
